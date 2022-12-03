@@ -1,0 +1,6 @@
+﻿  Main.cpp
+C:\Users\Elina\source\repos\laba10\laba10\Main.cpp(14,12): warning C4101: 'y': unreferenced local variable
+C:\Users\Elina\source\repos\laba10\laba10\Main.cpp(14,9): warning C4101: 'x': unreferenced local variable
+  Point.cpp
+  Generating Code...
+  laba10.vcxproj -> C:\Users\Elina\source\repos\laba10\x64\Debug\laba10.exe
