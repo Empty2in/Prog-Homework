@@ -1,0 +1,3 @@
+﻿  String.cpp
+C:\Users\Elina\source\repos\String\String.cpp(130,2): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  String.vcxproj -> C:\Users\Elina\source\repos\String\x64\Debug\String.exe
